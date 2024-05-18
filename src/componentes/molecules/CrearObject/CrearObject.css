@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.form-crear-objecto {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.tarea-input {
+    margin: 3%;
+    padding: 3%;
+}
+
+.tarea-boton {
+    width: 30%;
+    margin: 3%;
+    padding: 1% 3% 1% 3%;
+}

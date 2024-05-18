@@ -1,0 +1,12 @@
+.CajaMarcada {
+    display: flex;
+    flex-direction: row;
+    margin-left: 20px;
+}
+
+p {
+    overflow: auto;
+    margin-left: 20px;
+    font-style: normal;
+    font-size: 1rem;
+}
